@@ -1,6 +1,7 @@
 ![CGIAR_CIMMYT_FMI_logo](https://github.com/ForesightInitiative/clim2agri/assets/14908724/db00109f-b3d7-40e5-876b-036bed3cfb86)
 
 # clim2agri
+Clim2Agrti is a set of data processing tools (Clim2Agri) that allow the agricultural research and development community to simply and efficiently access data from open access platforms to be used in applications such as modeling or analysis of observations was generated. Clim2Agri is a Python-based application allowing the extraction and subsetting of agriculturally-relevant climate and land surface data from multiple gridded products (e.g., atmospheric reanalysis, satellite-derived products), from multiple formats (e.g., netCDF4, HDF), and their transformation into formats that are required by the agriculture research and crop modeling community (e.g., csv, txt). 
 
 ## Table of Content
 
