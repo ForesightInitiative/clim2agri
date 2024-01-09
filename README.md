@@ -1,4 +1,4 @@
-![cgiar_cimmyt_logo](https://github.com/Fran-GS-96/clim2agri_test/assets/98550294/ffefef1f-3722-479e-a74d-b566f54384ee)
+![CGIAR_CIMMYT_FMI_logo](https://github.com/ForesightInitiative/clim2agri/assets/14908724/db00109f-b3d7-40e5-876b-036bed3cfb86)
 
 # clim2agri
 
