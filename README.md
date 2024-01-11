@@ -7,7 +7,7 @@ See also the [user guide](https://github.com/ForesightInitiative/clim2agri/blob/
 
 Author: \[ \
   { \
-          Author name: CVarlo Cesar Montes Verdugo \
+          Author name: Carlo Cesar Montes Verdugo \
           Author affiliation: CIMMYT- CGIAR \
           Author email: C.MONTES@cgiar.org \
   } \
