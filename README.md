@@ -12,7 +12,7 @@ Author: \[ \
           Author email: C.MONTES@cgiar.org \
   } \
 \] \
-Date: 23 Decenmber 2023 \
+Date: 23 December 2023 \
 current Clim2Agri version: 1.0 \
 Clim2Agri documentation version: 1.0 \
 Status: current version is functional and available but not formally tested.
