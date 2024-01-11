@@ -5,6 +5,18 @@ Clim2Agri is a set of data processing tools (Clim2Agri) that allow the agricultu
 
 See also the [user guide](https://github.com/ForesightInitiative/clim2agri/blob/main/Clim2Agri_Report.pdf).
 
+Author: \[ \
+  { \
+          Author name: CVarlo Cesar Montes Verdugo \
+          Author affiliation: CIMMYT- CGIAR \
+          Author email: C.MONTES@cgiar.org \
+  } \
+\] \
+Date: 23 Decenmber 2023 \
+current Clim2Agri version: 1.0 \
+Clim2Agri documentation version: 1.0 \
+Status: current version is functional and available but not formally tested.
+
 ## Table of Content
 
 - [Configuring the Environment](#configuring-the-environment)
